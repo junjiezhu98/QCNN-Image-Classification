@@ -1,4 +1,4 @@
-# Quanvolutional-Image-Classification
+# QCNN-Image-Classification
 
 Image classification is a core task in computer vision, which involves categorizing
 images into predefined categories based on their visual content. Traditional approaches
